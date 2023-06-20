@@ -10,4 +10,4 @@ Conducting security audit by completing the controls assessment:
 - Mark an X next to each control that needs to be implemented<br/><br/>
 - Note levels of priority (high, medium, and/or low; NA if not applicable)<br/><br/>
 <img src="https://i.imgur.com/QWlr11s.png">
-
+<img src="https://i.imgur.com/QsbjiFs.png">

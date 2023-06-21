@@ -11,3 +11,11 @@ Conducting security audit by completing the controls assessment:
 - Note levels of priority (high, medium, and/or low; NA if not applicable)<br/><br/>
 <img src="https://i.imgur.com/QWlr11s.png">
 <img src="https://i.imgur.com/QsbjiFs.png">
+
+<h3>Conducting security audit by completing  the compliancy checklist:</h3>
+  - Consider where the company conducts business and how they receive payments from customers.<br/>
+  - check the boxes to select the compliance regulations and standards that Botium Toys needs to adhere to.<br/>
+  - Explain why the company needs to adhere to the selected compliance regulations and standards.<br/><br/>
+  <img src="https://i.imgur.com/M3d92RD.png">
+  <img src="https://i.imgur.com/YfD7chE.png">
+  <img src="https://i.imgur.com/HdFaARN.png">
